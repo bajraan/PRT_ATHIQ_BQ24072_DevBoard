@@ -1,0 +1,60 @@
+# KiCad
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+/build
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+
+# C++/STM32 build files
+*.o
+*.d
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.srec
+*.out
+*.axf
+*.dep
+*.dmp
+*.gch
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Ignore build directories
+/build/
+/dist/
+/Debug/
+/Release/
+
+# User ignored
+/21_Electrical/Screens_2/
+/21_Electrical/U37AX__USB-C_PowerDelivery_DevBoard-backups
+/21_Electrical/U37AX_USB_PowerDelivery_TestBoard-backups
