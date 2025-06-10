@@ -14,6 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 /build
+*-backups/
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -55,6 +56,6 @@ Thumbs.db
 /Release/
 
 # User ignored
-/21_Electrical/Screens_2/
+/21_Electrical/00__Screens_2/
 /21_Electrical/U37AX__USB-C_PowerDelivery_DevBoard-backups
 /21_Electrical/U37AX_USB_PowerDelivery_TestBoard-backups

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "__USB4135-GF-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/__GCT_USB4135-GF-A/USB4135-GF-A_REVA.kicad_sym")(options "")(descr ""))
+  (lib (name "__schutzinger_SWEB_8094")(type "KiCad")(uri "${KIPRJMOD}/__Schutzinger_SWEB_8094/__schutzinger_SWEB_8094.kicad_sym")(options "")(descr ""))
+  (lib (name "__TS2940CW33_RPG")(type "KiCad")(uri "${KIPRJMOD}/__TAIWAN_SEMI__TS2940CW33_RPG/__TS2940CW33_RPG.kicad_sym")(options "")(descr ""))
+  (lib (name "__Littelfuse_2920L330")(type "KiCad")(uri "${KIPRJMOD}/__Littelfuse_2920L330/__Littelfuse_2920L330.kicad_sym")(options "")(descr ""))
+)
