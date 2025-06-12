@@ -5,7 +5,7 @@
     <img src="Flyer_Top.png"/>
     <img src="Flyer_Bottom.png"/>
 </div>
-
+f
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
     <a href="https://github.com/bajraan"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
@@ -15,11 +15,11 @@
 
 
 > [!NOTE]
-> Element designed to reinforce the antenna mounting when the base is attached to a small-diameter pipe, such as a 30 mm one. The connection can be strengthened using this component. The model allows adjusting the pipe diameter by modifying a parameter in the spreadsheet within FreeCAD.
+> TODO:
 
 
 > [!NOTE]
-> **sw:**
+> **SW:**
 <a href="https://www.kicad.org/">
     <img src="https://img.shields.io/badge/%20-9-blue?logo=kicad&logoColor=white" height="80">
 </a>
